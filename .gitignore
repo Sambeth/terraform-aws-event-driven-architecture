@@ -1,0 +1,6 @@
+.terraform*
+terraform.*
+*.tfplan
+.idea/
+.DS_Store
+scripts.zip
